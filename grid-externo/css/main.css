@@ -1,6 +1,8 @@
 /*
 	Inserta tu CSS aqui
 */
+/*header*/
+
 .contenedor {
 	width: 1300px;
 	max-width: 100%;
@@ -13,6 +15,10 @@ header {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
+}
+
+.left {
+	margin-left: 80px;
 }
 
 .men {
@@ -29,10 +35,6 @@ header {
 	color: black;
 }
 
-.boton {
-	margin-top: 50px;
-}
-
 .menu {
 	text-decoration: none;
 	color: black;
@@ -43,6 +45,8 @@ header {
 .lab {
 	margin-top: 55px;
 }
+
+/*section*/
 
 .imgs {
 	margin-top: 20px;
@@ -55,6 +59,12 @@ header {
 	font-family: Open Sans;
 	font-weight: bold;
 }
+
+.centimg {
+	margin-left: 60px;
+}
+
+/*footer*/
 
 .footer {
 	margin-top: 20px;
