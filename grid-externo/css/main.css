@@ -1,0 +1,98 @@
+/*
+	Inserta tu CSS aqui
+*/
+.contenedor {
+	width: 1300px;
+	max-width: 100%;
+	margin: auto;
+}
+
+header {
+	height: 800px;
+	background-image: url(../img/grupal.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.men {
+	margin-top: 50px;
+}
+
+.sumate {
+	font-size: 20px;
+	text-align: center;
+	background-color: #FCB739;
+	padding: 10px 20px;
+	border-radius: 7px;
+	text-decoration: none;
+	color: black;
+}
+
+.boton {
+	margin-top: 50px;
+}
+
+.menu {
+	text-decoration: none;
+	color: black;
+	margin-left: 20px;
+	font-family: Open Sans; 
+}
+
+.lab {
+	margin-top: 55px;
+}
+
+.imgs {
+	margin-top: 20px;
+	margin-left: 10px;
+	width: 30%;
+}
+
+.principios {
+	margin-top: 10px;
+	font-family: Open Sans;
+	font-weight: bold;
+}
+
+.footer {
+	margin-top: 20px;
+	height: 40px;
+	background-color: #323230;
+	color: #C2D9E1;
+	padding-top: 30px;
+	font-family: Open Sans
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
