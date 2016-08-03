@@ -35,7 +35,7 @@ header {
 	color: black;
 }
 
-.menu {
+.menu {	
 	text-decoration: none;
 	color: black;
 	margin-left: 20px;
@@ -51,7 +51,7 @@ header {
 .imgs {
 	margin-top: 20px;
 	margin-left: 10px;
-	width: 30%;
+	
 }
 
 .principios {
